@@ -1,0 +1,1 @@
+otpauth://totp/armando%20valencia%20romero%3Aarman-619-%40hotmail.com%20?secret=HQBJQAO4RVTORL5GBR7YRYYM6EAYG25S&issuer=armando%20valencia%20romero&algorithm=SHA1&digits=6&period=30
